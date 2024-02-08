@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephLee12&show_icons=true&theme=gruvbox_light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephLee12&show_icons=true&count_private=true&theme=gruvbox_light)
 
 - 👋 Hi, I’m @Jinhao Li
 - 👀 My research interests are machine learning and deep learning applications in power system analysis.
